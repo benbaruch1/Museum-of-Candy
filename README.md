@@ -8,7 +8,7 @@ https://benbaruch1.github.io/Museum-of-Candy/
 
 
 ## What I've learned
-- Implement Boostrap grid.
+- Implement Bootstrap grid.
 - Using Bootstrap for CSS classes, breakpoints and etc.
 - HTML Layout, Sections.
 - CSS Selectors, Media Queries.
